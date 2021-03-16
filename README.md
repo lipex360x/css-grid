@@ -10,7 +10,7 @@
 
 - [Introduction](#zap-introduction)
 
-- [Go to live view](https://xxxxxxxxxxxxxxxx.netlify.app/)
+- [Go to live view](https://gridcss3.netlify.app/)
 
 - [See More about this project](https://www.youtube.com/watch?v=Y9uat94abxU&ab_channel=WillianJustenCursos)
  
