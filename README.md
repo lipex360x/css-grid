@@ -20,5 +20,5 @@
 
 ```json
  HTML
- CSS xxxxxxxx
+ CSS GRID
 ```
