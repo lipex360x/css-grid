@@ -18,7 +18,7 @@
 
 ### :zap: Technologies
 
-```json
+```js
  HTML
  CSS GRID
 ```
